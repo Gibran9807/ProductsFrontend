@@ -1,0 +1,43 @@
+table {
+    background-color: white;
+}
+
+table {
+    border-radius: 1%;
+}
+
+body {
+    background-image: url("https://images.pexels.com/photos/1714205/pexels-photo-1714205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background: #000428;
+    background: -webkit-linear-gradient(to right, #004e92, #000428);
+    background: linear-gradient(to right, #004e92, #000428);
+    */
+}
+
+footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+}
+
+label, h4, th, td, p{
+    color: white;
+}
+
+img {
+    width: 95px;
+    height: 65px;
+}
+
+.home{
+    display: flex;
+}
+
+#imgHome{
+    border-radius: 2%;
+    width: 375px;
+    height: 400px;
+}
